@@ -9,7 +9,7 @@
 💼 Availability to change location <br>
 ⚡ Fun fact: passionate about creating creative and functional interfaces <br>
 
-### 💻 Languages ​​and tools
+### Languages ​​and tools
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,html,css,nodejs,vite,jest,git,bootstrap,angular,typescript,&theme=dark)](https://skillicons.dev)
 

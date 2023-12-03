@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there, I'm Jay 👋
 
-<!--
-**jay-santana/jay-santana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+👩🏻‍💻 I'm a Web Developer
+🎓 [Laboratoria < L >](https://www.laboratoria.la/br) student
+🌱 I’m currently learning TypeScript and ANGULAR
+🎯 Criativity and innovation
+💼 Availability to change location
+⚡ Fun fact: passionate about creating creative and functional interfaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Languages ​​and tools
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,nodejs,vite,jest,git,bootstrap,angular,typescript,&theme=dark)](https://skillicons.dev)
+
+### 📩 Contact me
+
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/jayanny-santana/). Estou sempre aberta a novas oportunidades de aprendizado e colaboração em projetos inovadores.

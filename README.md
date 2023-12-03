@@ -2,12 +2,12 @@
 
 ### About Me
 
-👩🏻‍💻 I'm a Web Developer
-🎓 [Laboratoria < L >](https://www.laboratoria.la/br) student
-🌱 I’m currently learning TypeScript and ANGULAR
-🎯 Criativity and innovation
-💼 Availability to change location
-⚡ Fun fact: passionate about creating creative and functional interfaces
+👩🏻‍💻 I'm a Web Developer <br>
+🎓 [Laboratoria < L >](https://www.laboratoria.la/br) student <br>
+🌱 I’m currently learning TypeScript and ANGULAR <br>
+🎯 Criativity and innovation <br>
+💼 Availability to change location <br>
+⚡ Fun fact: passionate about creating creative and functional interfaces <br>
 
 ### 💻 Languages ​​and tools
 
@@ -15,4 +15,5 @@
 
 ### 📩 Contact me
 
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/jayanny-santana/). Estou sempre aberta a novas oportunidades de aprendizado e colaboração em projetos inovadores.
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/jayanny-santana/). <br>
+Estou sempre aberta a novas oportunidades de aprendizado e colaboração em projetos inovadores.

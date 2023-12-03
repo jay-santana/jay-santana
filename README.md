@@ -15,5 +15,5 @@
 
 ### 📩 Contact me
 
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/jayanny-santana/). <br>
-Estou sempre aberta a novas oportunidades de aprendizado e colaboração em projetos inovadores.
+You can find me on [LinkedIn](https://www.linkedin.com/in/jayanny-santana/). <br>
+I'm always open to new opportunities for learning and collaborating on innovative projects.

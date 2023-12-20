@@ -3,7 +3,7 @@
 ### About Me
 
 👩🏻‍💻 I'm a Web Developer <br>
-🎓 [Laboratoria < L >](https://www.laboratoria.la/br) student <br>
+🎓 student graduated from [Laboratoria < L >](https://www.laboratoria.la/br) <br>
 🌱 I’m currently learning TypeScript and ANGULAR <br>
 🎯 Criativity and innovation <br>
 💼 Availability to change location <br>
@@ -11,7 +11,7 @@
 
 ### Languages ​​and tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,firebase,vite,vercel,jest,git,bootstrap,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,,angular,javascript,typescript,nodejs,firebase,vite,vercel,jest,git,bootstrap,figma,vscode,trello&theme=dark)](https://skillicons.dev)
 
 ### 📩 Contact me
 

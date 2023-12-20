@@ -11,7 +11,7 @@
 
 ### Languages ​​and tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,,angular,javascript,typescript,nodejs,firebase,vite,vercel,jest,git,bootstrap,figma,vscode,trello&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,angular,firebase,vite,vercel,jest,git,bootstrap,figma,vscode,trello&theme=dark)](https://skillicons.dev)
 
 ### 📩 Contact me
 

@@ -2,9 +2,9 @@
 
 ### About Me
 
-👩🏻‍💻 I'm a Full-Stack Developer <br>
+👩🏻‍💻 I'm a Full Stack Developer <br>
 🎓 student graduated from [Laboratoria < L >](https://www.laboratoria.la/br) <br>
-🌱 I’m currently learning TypeScript and ANGULAR <br>
+🌱 I’m currently learning ANGULAR and PYTHON <br>
 🎯 Criativity and innovation <br>
 💼 Availability to change location <br>
 ⚡ Fun fact: passionate about creating creative and functional interfaces <br>
